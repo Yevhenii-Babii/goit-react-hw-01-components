@@ -1,0 +1,24 @@
+.statics {
+   padding: 50px;   
+   background-color: cornsilk;
+}
+
+.title{
+    text-align: center;
+}
+.statsList {
+    list-style: none;
+    display: flex;
+    align-items: baseline;
+    /* gap: 10px; */
+    justify-content: center;
+    padding: 0;
+}
+
+.item { 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
